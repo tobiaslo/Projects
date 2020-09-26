@@ -23,6 +23,7 @@ while not done:
 	pressed = pygame.key.get_pressed()
 	if pressed[pygame.K_SPACE]:
 		spill.oppdatering()
+		pygame.time.wait(80)
 
 
 	screen.fill((255,255,255))
