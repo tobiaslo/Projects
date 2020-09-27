@@ -2,10 +2,10 @@ En versjon av det klassiske spillet Snake. i Denne implementasjonen er det et ne
 Ble laget 1. semester uten så mye kunnskap og ønsket i stor grad å finne ut av ting selv. Har dermed implementert det nevrale nettverket og læringen selv. En konsekvens av dette er at den er langt fra perfekt, men det var et morsomt prosjekt.
 
 Regler:
-	- 100 peong per eple/firkant slangen kommer over
-	- 1 poeng per trekk hvor slangen fortsatt er i livet
-	- Har slangen ikke kommet over noen epler/tøde firkanter vil slangen automatisk dø etter 250 trekk, dersom den ikke kommer over flere epler/ røde firkanter.
-	- Dersom slangen har kommet over noen epler/røde firkanter vil slangen dø etter 500 trekk, dersom den ikke kommer over flere epler/ røde firkanter.
+- 100 peong per eple/firkant slangen kommer over 
+- 1 poeng per trekk hvor slangen fortsatt er i livet
+- Har slangen ikke kommet over noen epler/tøde firkanter vil slangen automatisk dø etter 250 trekk, dersom den ikke kommer over flere epler/ røde firkanter.
+- Dersom slangen har kommet over noen epler/røde firkanter vil slangen dø etter 500 trekk, dersom den ikke kommer over flere epler/ røde firkanter.
 
 Kjøringskrav:
 	Python 3
