@@ -15,11 +15,10 @@ for _ in range(0, 1):
 
 	spillListe.append(brettClass.Brett(int(bredde / 10), int(hoyde / 10), 1))
 	spillListe.append(brettClass.Brett(int(bredde / 10), int(hoyde / 10), 2))
-	for _ in range(0, 5):
+	for _ in range(0, 1):
 		spillListe.append(brettClass.Brett(int(bredde / 10), int(hoyde / 10), 0))
 	
 	for spill in spillListe:
-	
 	
 		pygame.init()
 		bredde = 500
@@ -42,7 +41,6 @@ for _ in range(0, 1):
 			if spill.erIkkeOK():
 				done = True
 		
-		
 			screen.fill((255, 255, 255))
 			liste = spill.tegne()
 			for rad in range(0, len(liste)):
@@ -60,18 +58,10 @@ for _ in range(0, 1):
 		
 			pygame.display.flip()
 		
-			clock.tick(40)
-	
-		if høyScore < spill.getScore():
-			høyScore = spill.getScore()
-			høyIndex = spill
-			print("Denne er den beste")
-		elif nestScore < spill.getScore():
-			nestScore = spill.getScore()
-			nestIndex = spill
-			print("denne er nest best")
+			clock.tick(30)
 
-	print("")
+		print(spill.getScore())
+
 	print("")
 	print("")
 	print("Ny runde")

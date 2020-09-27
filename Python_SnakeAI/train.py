@@ -2,14 +2,12 @@ import pygame
 import brettClass
 import time
 
-
-
-antall = 20
+antall = 25
 
 data = "\n"
 
 
-for nummer in range(0, 20):
+for nummer in range(0, 30):
 
 	totSum = 0
 	bredde = 500
@@ -106,12 +104,6 @@ for nummer in range(0, 20):
 	print("")
 	print("Ny runde")
 	print("nummer: {}".format(nummer))
-
-data = data[:-1]
-fil = open("graph.txt", "a")
-
-fil.write(data)
-fil.close()
 
 print("Ferdig")
 

@@ -107,54 +107,6 @@ class MachinLearning:
 
 		return self.indexRetning(retningIndex)
 
-		"""retningIndex = 0
-		hidden1Out = []
-		hidden2Out = []
-		out = []
-
-		for p in range(0, 20):
-			tot = 0
-			for i in range(0, len(inputs)):
-				tot += inputs[i] * self._bias[p][i]
-			tot += self._bias[p][-1]
-			if tot < 0:
-				hidden1Out.append(0)
-			elif tot >= 0:
-				hidden1Out.append(1)
-
-
-		for p in range(20, 28):
-			tot = 0
-			for i in range(0, len(inputs)):
-				tot += hidden1Out[i] * self._bias[p][i]
-			tot += self._bias[p][-1]
-			if tot < 0:
-				hidden2Out.append(0)
-			elif tot >= 0:
-				hidden2Out.append(1)
-
-
-
-		for p in range(28, 32):
-			tot = 0
-			for i in range(0, len(hidden2Out)):
-				tot += hidden2Out[i] * self._bias[p][i]
-			tot += self._bias[p][-1]
-
-			if tot < 0:
-				out.append(0)
-			elif tot >= 0:
-				out.append(1)
-
-		if not 1 in out:
-			retningIndex = random.randint(0, 3)
-			self._ingen = True
-			print("ingen")
-		else:
-			self._ingen = False
-			retningIndex = out.index(1)
-
-		return self.indexRetning(retningIndex)"""
 
 	def getBias(self):
 		return self._bias

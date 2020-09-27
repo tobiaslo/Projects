@@ -1,9 +1,7 @@
 
 class Celle:
 	def __init__(self):
-		#0 = tom
-		#-1 = eple
-		#1 = vegg
+
 		self._status = 0
 
 	def __str__(self):

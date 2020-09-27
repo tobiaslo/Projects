@@ -6,5 +6,6 @@ Trenger:
 	pygame
 
 Slik spiller du
+	Kjør filen main.py
 	Skriver inn størrelsen på spillbrettet når terminalen spør om dette
 	Trykker på SPACE for å spille en runde

@@ -136,16 +136,3 @@ class Brett:
 
 	def getScore(self):
 		return self._score
-
-
-
-
-
-
-
-
-
-
-
-
-
