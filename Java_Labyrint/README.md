@@ -2,10 +2,10 @@ This is a project from univeristy. A simpel labyrinth solver.
 
 
 
-Requirements
+##Requirements
 - Java 8 (with JavaFx)
 
-Totorial
+##Totorial
 1. Run the Hovedprogram file after compiling
 2. Select the labyrinth you want from the "velg fil"
 3. Click on the labyrinth to find the way out
