@@ -1,17 +1,32 @@
-En Simulering/program med sprettballer.
-Man kan selv velge endel innstillinger og så kaste ballene rundt på skjermen
+# Simulating balls
+Runs a simulation with bouncy balls. A project to learn more about JavaFX. The simulation was never the focus, but testing out different GUI functions.
 
-Kjørekrav:
-- Java 8 (Bruker javaFx)
+### Requirements
+- Java 8 (with JavaFX)
 
-Manual:
-1. Etter kompilering kjør SprettballV3
-2. Velg instillinger
-3. Se simulering og kast ballene rundt med musen
-4. Trykk på en ball for å få opp data og instillinger om denne ballen
-	   (Dette er noen ganger litt vanskelig når ballen har stor fart)
-5. Endre innstillingene eller se grafen for hvordan farten til ballen forandrer seg over tid
+I have not tested it out, but it should run with newer versions of Java. In addition you need to install JavaFX yourself. see https://openjfx.io for more information
 
-Feil i kjøringen:
-- Det er lett å kaste ballene for fort. De vil da få uendelig stor hastighet og man vil ikke se dem igjen
-- Noen ganger vil ballen falle til ro etterhvert, andre ganger vil den sprette med små hopp uansett hvor lang tid man venter
+### Functionality
+- You can choose how many bouncyballs you want on the screen
+- You can set the gravitation and the bouncyness of the balls
+- The size and color of the balls can change
+- Click on a ball to change the settings of the ball
+- Clock on the ball to show a graph of the speed of the ball
+
+### Limitations
+- Sometimes the ball will continue to bounce indefinitly
+- If the user throws the ball to hard, it will never come down
+- If the user changes the settings, the simulation will start again
+
+### Usage
+compile with
+```Bash
+javac *.java
+```
+
+run with
+```Bash
+java SprettballV3.java
+```
+
+Anfter running the program the user can set the setting and run the simulation. Drag a bouncy ball and realese the ball to throw it.
