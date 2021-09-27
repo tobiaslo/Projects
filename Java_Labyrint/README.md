@@ -27,3 +27,4 @@ Totorial:
 3. Select the next/previous to get another way
 4. Select "kortest" to get the shortest
 5. Select "Tilfeldig" to get a randome way out
+
