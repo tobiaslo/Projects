@@ -1,0 +1,434 @@
+Oppgave 1
+a)	Kolonial er en digital matbutikk, så en sluttbruker kan være alle som handler mat. Sluttbrukerne er dermed potensielt en stor gruppe mennesker. I realiteten vil en typisk sluttbruker være en som ønsker å spare tid på å slippe å dra i butikken. Siden frakt koster litt, og butikken er noe dyrere enn billigbutikkene vil en bruker typisk også ha det greit økonomisk. En typisk sluttbruker kan da være en barnefamilie for eksempel. Der begge foreldrene er i jobb, og dermed ser verdi i å slippe å handle fysisk, og sparer tid. Kolonial er tilgjengelig både som et program til telefonen og gjennom internett. Mange vil nok bruke mobilen til å bruke kolonial, da er man allerede logget inn og klar til å kjøpe. Siden levering av varene tar noe tid, vil nok de færreste bruke det mer enn rundt 2 ganger i uka.
+
+Viktige funksjoner for brukeren er jo så klart å kunne legge til varer i handlekurven, og bestille varene. Dette er jo kjernevirksomheten til kolonial. Mange bruker nok også funksjoner som gjør at varer man kjøper ofte automatisk kommer inn på handlelisten. Varer som melk, brød og pålegg kan være slike varer. I tillegg kommer funksjoner som oppskrifter, hvor man kan legge til alle varene som trengs i handlelisten automatisk. Dette kan gjøre det enklere å prøve nye ting.
+
+b)	Det er flere interessenter i systemet.
+
+Utvikler: Utviklerne som lager systemet, og som lager nye funksjoner i systemet ønsker å lage den beste tjenesten for brukeren
+
+Investorer: Ønsker å tjene mest mulig penger. Ønsker dermed funksjoner og endringer i driften til Kolonial som øker profitten.
+
+Tradisjonelle matbutikker: Er i samme virksomhet som Kolonial. Prøver å selge mest mulig varer og mat, slik at profitten blir høy. Kolonial blir da en konkurrent.
+
+Internettreklame firmaer: Ønsker data om brukerne fra kolonial slik at de kan selge mer målrettet reklame.
+
+Lavt utdannede ansatte: Ønsker først og fremst en jobb og en sosial plass å være.
+
+c)	
+
+d)	Kundene vil ha en positiv relasjon til Kolonial, siden de sparer tid og liker tjenestene kolonial tilbyr. 
+Investorene vil også ha en positiv relasjon, fordi de kan tjene mer penger. De ønsker at utviklerne skal lage funksjoner slik at kundene vil kjøpe mer og slik at virksomheten blir mer automatisert.
+Utviklerne kan ha både en positiv og en negativ relasjon til investorene. Investorene gjør det mulig for utviklerne å lage best mulig produkt, og mange ganger sammenfaller ønskene om endringer sammen med investorene. Selv om ikke grunnen er den samme. På den andre siden ønsker utviklerne å ha kontrollen, og ikke bli presset til å lage løsninger som ikke gir kundene den beste opplevelsen.
+De som tilbyr Internettreklame ønsker data om brukerne, noe kolonial har. De kan dermed ha en positiv relasjon til Kolonial, dersom de vil samarbeide. Siden disse vil tilby penger for denne dataen, vil investorene også ha en positiv relasjon med de som tilbyr Internettreklame. Da dette kan øke profitten til Kolonial. Kundene ønsker derimot at deres data ikke blir delt med andre, og vil dermed ha en negativ relasjon internettreklame bedriftene.
+De konkurrerende bedriftene vil ha en negativ relasjon til Kolonial, siden de tar deres kunder, ved å tilby kundene noe de ikke kan. De kan lage sine egne konkurrenter til Kolonial og på den måten presse Kolonial til å utvikle seg videre for å beholde forspranget de har på internetthandelen.
+De ansatte som ønsker en jobb vil ha en positiv relasjon til både Kolonial og de tradisjonelle matbutikkene, for dem er det viktigste å ha en trygg jobb å gå til.
+
+e)	Spørsmål eller kommentarer til “The Rich Picture: A Tool for Reasoning About Work Context”.
+I Figur 1 og 2 ser man en bedrift utenfra. Med interessenter og interesser. I figur 3 er derimot et bilde innenfra en bedrift. Vil begge disse regnes som rike bilder?
+
+Siden det er en person som lager det rike bilde og kan velge hva han/hun skal fokusere på. Hvor objektiv blir en slik analyse/rikt bilde?
+
+Oppgave 2
+a)	Jeg skal se nærmere på påstand 2 i notatet om samspill mellom mennesker og teknologi. Den sier at endringene i samspillet mellom mennesker og teknologi er vanskelig å fullt ut planlegge, styre og forutse.
+
+Det er umulig for oss å forutse fremtiden og vite hvordan teknologien vil endre seg. Siden samspillet mellom mennesker og teknologi endrer seg i takt med at teknologien endrer seg, vil en utvikling av teknologi også endre samspillet. Vi ikke vet nøyaktig hvordan teknologien vil endre seg, og det vil da være vanskelig å forutse samspillet. Et eksempel kan være hvordan man så for seg at det ikke var nødvendig med mer enn en håndfull datamaskiner i verden på 80-tallet. Der og da virket dette logisk, siden datamaskiner både var dyre og kompliserte. Utviklingen av teknologien, og dermed også samspillet mellom menneske og teknologi, endret seg drastisk etter det.
+
+På en annen siden vil det være mulig å se trender i samspillet mellom mennesker og teknologi. For eksempel kan man i dag se at vi går mot selvkjørende biler. Det er vanskelig å vite når vi kommer dit, og hvordan, men sannsynligvis vil vi utvikle selvkjørende biler. Dette er en teknologi som vil endre samspillet mellom mennesker og teknologi sterkt. Vi vil etter hvert stole helt på teknologien, og sannsynligvis vil ingen trenge å lære seg hvordan man kjører. Ettersom man ser denne trenden allerede, vil det være mulig å planlegge og til en viss grad styre samspillet ved å utvikle lover og regler i forkant av teknologien. Så på visse områder vil det være mulig planlegge, styre og forutse hva som kommer til å skje.
+
+Samspillet mellom mennesker og teknologi endrer seg etter som verden endrer seg. Siden det er umulig å kunne forutse og planlegg hvordan samfunnet endrer seg, vil man heller ikke kunne forutse samspillet. Uforutsette ting skjer i samfunnet hele tide, det kan være en konflikt som plutselig blir en krig. Eller det kan være en pandemi som påvirker hele kloden. Når samfunnet endrer seg drastisk, vil også samspillet mellom mennesker og teknologi endre seg. Nye tjenester og produkter vil bli utviklet for å dekke et nytt marked. Når man ikke greier å forutse alle disse endringene, er det og vanskelig å fullt ut planlegge og forutse hvordan samspillet vil endre seg.
+
+Påstanden stemmer altså i stor grad. Det vil være spesifikke områder innenfor samspillet mellom mennesker og teknologi som vil være lettere og planlegge for enn andre, men å planlegge, styre og forutse mesteparten av samspillet fullt ut vi være veldig vanskelig.
+
+b)	Den digitale teknologien utvikler seg raskt. Samfunnet blir mer avhengig og tettere knyttet til denne teknologien. Dermed vil hverdagen og samfunnet endres i takt med at den digitale teknologien blir utviklet.
+
+Digital teknologi muliggjør det å holde kontakten med folk over store avstander. Ved hjelp av sosiale medier, slik som facebook, og videokonferanse tjenester, slik som zoom, kan man snakke sammen og holde kontakten bedre enn før. Dette kan gjøre at vi er mindre fysisk sammen, men likevel er sosiale. Dette har både positive og negative sider. Det endrer i hvert fall hverdagen til brukerne, ved at de ikke trenger å reise så mye. Man bruker mer tid hjemme og mer tid foran en skjerm.
+
+Det er ikke bare positive sider ved den digitale teknologien. Digital teknologi kan fjerne mange av jobbene vi har i dag. Da er det spesielt de arbeidsplassene som ikke trenger mye utdanning for å gjennomføre. For eksempel når butikkene går over til selvbetjent betalingsløsning. Dette gjør at utdanning vil bli viktigere og viktigere i samfunnet. De som mangler utdanning, vil lettere falle utenfor enn før.
+
+Mange vil oppleve at den digitale teknologien gjør at noen ting går raskere enn før. For å bruke en av de positive siden ved selvbetjente betalingstjenester, så vil det bli mindre kø. I stede for kanskje å ha to kasser i butikken, så kan en butikk ha 6 selvbetjeningskasser. Dette vil gjøre at det blir mindre kø. Det er flere eksempler på ting som blir mer effektive, og som man da slipper å bruke så lang tid på.
+
+Den digitale teknologien vil altså endre hverdagen og samfunnet på både positive og negative måter. Og siden denne teknologien fortsetter å utvikle seg, vil også samfunnet og alle som lever i samfunnet også bli påvirket.
+
+c)	Det er mange gode grunner til å drøfte samspillet mellom teknologi og individer, organisasjoner og samfunn.
+
+Siden teknologi er så tett knyttet til samfunnet vi lever i, vil man ved å drøfte samspillet mellom teknologi og mennesker også drøfte hvordan deler av samfunnet fungerer. På denne måten kan man finne ut hvordan man ønsker å endre samfunnet på.
+
+Ved å drøfte vil man og kunne se på konsekvensene av ny teknologi. Både positive og negative sider ved teknologien vil komme frem. Det vil da gjøre det lettere å finne ut om man må endre noe, eller om man ønsker teknologien i det hele tatt.
+
+Drøfter man samspillet vil man også kan skje kunne finne hvor teknologien kan forbedres. Man kan finne problemer ved teknologien som kan fikses eller endres.
+
+Oppgave 3
+Det er et viktig tema å tenke over. Og det er noe å tenke på når man skal endre noe. Både hvordan det påvirker interessenter og interessene til bedriften, men også hvordan endringen kanskje vil endre hverdagen og samfunnet. I løpet av obligen har jeg blitt mer klar over disse problemstillingene, og jeg har lært hvordan et rikt bilde kan lages og hvordan det kan formidle en kompleks situasjon på en enkel måte.
+Oppgave 1
+a)	Kolonial er en digital matbutikk, så en sluttbruker kan være alle som handler mat. Sluttbrukerne er dermed potensielt en stor gruppe mennesker. I realiteten vil en typisk sluttbruker være en som ønsker å spare tid på å slippe å dra i butikken. Siden frakt koster litt, og butikken er noe dyrere enn billigbutikkene vil en bruker typisk også ha det greit økonomisk. En typisk sluttbruker kan da være en barnefamilie for eksempel. Der begge foreldrene er i jobb, og dermed ser verdi i å slippe å handle fysisk, og sparer tid. Kolonial er tilgjengelig både som et program til telefonen og gjennom internett. Mange vil nok bruke mobilen til å bruke kolonial, da er man allerede logget inn og klar til å kjøpe. Siden levering av varene tar noe tid, vil nok de færreste bruke det mer enn rundt 2 ganger i uka.
+
+Viktige funksjoner for brukeren er jo så klart å kunne legge til varer i handlekurven, og bestille varene. Dette er jo kjernevirksomheten til kolonial. Mange bruker nok også funksjoner som gjør at varer man kjøper ofte automatisk kommer inn på handlelisten. Varer som melk, brød og pålegg kan være slike varer. I tillegg kommer funksjoner som oppskrifter, hvor man kan legge til alle varene som trengs i handlelisten automatisk. Dette kan gjøre det enklere å prøve nye ting.
+
+b)	Det er flere interessenter i systemet.
+
+Utvikler: Utviklerne som lager systemet, og som lager nye funksjoner i systemet ønsker å lage den beste tjenesten for brukeren
+
+Investorer: Ønsker å tjene mest mulig penger. Ønsker dermed funksjoner og endringer i driften til Kolonial som øker profitten.
+
+Tradisjonelle matbutikker: Er i samme virksomhet som Kolonial. Prøver å selge mest mulig varer og mat, slik at profitten blir høy. Kolonial blir da en konkurrent.
+
+Internettreklame firmaer: Ønsker data om brukerne fra kolonial slik at de kan selge mer målrettet reklame.
+
+Lavt utdannede ansatte: Ønsker først og fremst en jobb og en sosial plass å være.
+
+c)	
+
+d)	Kundene vil ha en positiv relasjon til Kolonial, siden de sparer tid og liker tjenestene kolonial tilbyr. 
+Investorene vil også ha en positiv relasjon, fordi de kan tjene mer penger. De ønsker at utviklerne skal lage funksjoner slik at kundene vil kjøpe mer og slik at virksomheten blir mer automatisert.
+Utviklerne kan ha både en positiv og en negativ relasjon til investorene. Investorene gjør det mulig for utviklerne å lage best mulig produkt, og mange ganger sammenfaller ønskene om endringer sammen med investorene. Selv om ikke grunnen er den samme. På den andre siden ønsker utviklerne å ha kontrollen, og ikke bli presset til å lage løsninger som ikke gir kundene den beste opplevelsen.
+De som tilbyr Internettreklame ønsker data om brukerne, noe kolonial har. De kan dermed ha en positiv relasjon til Kolonial, dersom de vil samarbeide. Siden disse vil tilby penger for denne dataen, vil investorene også ha en positiv relasjon med de som tilbyr Internettreklame. Da dette kan øke profitten til Kolonial. Kundene ønsker derimot at deres data ikke blir delt med andre, og vil dermed ha en negativ relasjon internettreklame bedriftene.
+De konkurrerende bedriftene vil ha en negativ relasjon til Kolonial, siden de tar deres kunder, ved å tilby kundene noe de ikke kan. De kan lage sine egne konkurrenter til Kolonial og på den måten presse Kolonial til å utvikle seg videre for å beholde forspranget de har på internetthandelen.
+De ansatte som ønsker en jobb vil ha en positiv relasjon til både Kolonial og de tradisjonelle matbutikkene, for dem er det viktigste å ha en trygg jobb å gå til.
+
+e)	Spørsmål eller kommentarer til “The Rich Picture: A Tool for Reasoning About Work Context”.
+I Figur 1 og 2 ser man en bedrift utenfra. Med interessenter og interesser. I figur 3 er derimot et bilde innenfra en bedrift. Vil begge disse regnes som rike bilder?
+
+Siden det er en person som lager det rike bilde og kan velge hva han/hun skal fokusere på. Hvor objektiv blir en slik analyse/rikt bilde?
+
+Oppgave 2
+a)	Jeg skal se nærmere på påstand 2 i notatet om samspill mellom mennesker og teknologi. Den sier at endringene i samspillet mellom mennesker og teknologi er vanskelig å fullt ut planlegge, styre og forutse.
+
+Det er umulig for oss å forutse fremtiden og vite hvordan teknologien vil endre seg. Siden samspillet mellom mennesker og teknologi endrer seg i takt med at teknologien endrer seg, vil en utvikling av teknologi også endre samspillet. Vi ikke vet nøyaktig hvordan teknologien vil endre seg, og det vil da være vanskelig å forutse samspillet. Et eksempel kan være hvordan man så for seg at det ikke var nødvendig med mer enn en håndfull datamaskiner i verden på 80-tallet. Der og da virket dette logisk, siden datamaskiner både var dyre og kompliserte. Utviklingen av teknologien, og dermed også samspillet mellom menneske og teknologi, endret seg drastisk etter det.
+
+På en annen siden vil det være mulig å se trender i samspillet mellom mennesker og teknologi. For eksempel kan man i dag se at vi går mot selvkjørende biler. Det er vanskelig å vite når vi kommer dit, og hvordan, men sannsynligvis vil vi utvikle selvkjørende biler. Dette er en teknologi som vil endre samspillet mellom mennesker og teknologi sterkt. Vi vil etter hvert stole helt på teknologien, og sannsynligvis vil ingen trenge å lære seg hvordan man kjører. Ettersom man ser denne trenden allerede, vil det være mulig å planlegge og til en viss grad styre samspillet ved å utvikle lover og regler i forkant av teknologien. Så på visse områder vil det være mulig planlegge, styre og forutse hva som kommer til å skje.
+
+Samspillet mellom mennesker og teknologi endrer seg etter som verden endrer seg. Siden det er umulig å kunne forutse og planlegg hvordan samfunnet endrer seg, vil man heller ikke kunne forutse samspillet. Uforutsette ting skjer i samfunnet hele tide, det kan være en konflikt som plutselig blir en krig. Eller det kan være en pandemi som påvirker hele kloden. Når samfunnet endrer seg drastisk, vil også samspillet mellom mennesker og teknologi endre seg. Nye tjenester og produkter vil bli utviklet for å dekke et nytt marked. Når man ikke greier å forutse alle disse endringene, er det og vanskelig å fullt ut planlegge og forutse hvordan samspillet vil endre seg.
+
+Påstanden stemmer altså i stor grad. Det vil være spesifikke områder innenfor samspillet mellom mennesker og teknologi som vil være lettere og planlegge for enn andre, men å planlegge, styre og forutse mesteparten av samspillet fullt ut vi være veldig vanskelig.
+
+b)	Den digitale teknologien utvikler seg raskt. Samfunnet blir mer avhengig og tettere knyttet til denne teknologien. Dermed vil hverdagen og samfunnet endres i takt med at den digitale teknologien blir utviklet.
+
+Digital teknologi muliggjør det å holde kontakten med folk over store avstander. Ved hjelp av sosiale medier, slik som facebook, og videokonferanse tjenester, slik som zoom, kan man snakke sammen og holde kontakten bedre enn før. Dette kan gjøre at vi er mindre fysisk sammen, men likevel er sosiale. Dette har både positive og negative sider. Det endrer i hvert fall hverdagen til brukerne, ved at de ikke trenger å reise så mye. Man bruker mer tid hjemme og mer tid foran en skjerm.
+
+Det er ikke bare positive sider ved den digitale teknologien. Digital teknologi kan fjerne mange av jobbene vi har i dag. Da er det spesielt de arbeidsplassene som ikke trenger mye utdanning for å gjennomføre. For eksempel når butikkene går over til selvbetjent betalingsløsning. Dette gjør at utdanning vil bli viktigere og viktigere i samfunnet. De som mangler utdanning, vil lettere falle utenfor enn før.
+
+Mange vil oppleve at den digitale teknologien gjør at noen ting går raskere enn før. For å bruke en av de positive siden ved selvbetjente betalingstjenester, så vil det bli mindre kø. I stede for kanskje å ha to kasser i butikken, så kan en butikk ha 6 selvbetjeningskasser. Dette vil gjøre at det blir mindre kø. Det er flere eksempler på ting som blir mer effektive, og som man da slipper å bruke så lang tid på.
+
+Den digitale teknologien vil altså endre hverdagen og samfunnet på både positive og negative måter. Og siden denne teknologien fortsetter å utvikle seg, vil også samfunnet og alle som lever i samfunnet også bli påvirket.
+
+c)	Det er mange gode grunner til å drøfte samspillet mellom teknologi og individer, organisasjoner og samfunn.
+
+Siden teknologi er så tett knyttet til samfunnet vi lever i, vil man ved å drøfte samspillet mellom teknologi og mennesker også drøfte hvordan deler av samfunnet fungerer. På denne måten kan man finne ut hvordan man ønsker å endre samfunnet på.
+
+Ved å drøfte vil man og kunne se på konsekvensene av ny teknologi. Både positive og negative sider ved teknologien vil komme frem. Det vil da gjøre det lettere å finne ut om man må endre noe, eller om man ønsker teknologien i det hele tatt.
+
+Drøfter man samspillet vil man også kan skje kunne finne hvor teknologien kan forbedres. Man kan finne problemer ved teknologien som kan fikses eller endres.
+
+Oppgave 3
+Det er et viktig tema å tenke over. Og det er noe å tenke på når man skal endre noe. Både hvordan det påvirker interessenter og interessene til bedriften, men også hvordan endringen kanskje vil endre hverdagen og samfunnet. I løpet av obligen har jeg blitt mer klar over disse problemstillingene, og jeg har lært hvordan et rikt bilde kan lages og hvordan det kan formidle en kompleks situasjon på en enkel måte.
+Oppgave 1
+a)	Kolonial er en digital matbutikk, så en sluttbruker kan være alle som handler mat. Sluttbrukerne er dermed potensielt en stor gruppe mennesker. I realiteten vil en typisk sluttbruker være en som ønsker å spare tid på å slippe å dra i butikken. Siden frakt koster litt, og butikken er noe dyrere enn billigbutikkene vil en bruker typisk også ha det greit økonomisk. En typisk sluttbruker kan da være en barnefamilie for eksempel. Der begge foreldrene er i jobb, og dermed ser verdi i å slippe å handle fysisk, og sparer tid. Kolonial er tilgjengelig både som et program til telefonen og gjennom internett. Mange vil nok bruke mobilen til å bruke kolonial, da er man allerede logget inn og klar til å kjøpe. Siden levering av varene tar noe tid, vil nok de færreste bruke det mer enn rundt 2 ganger i uka.
+
+Viktige funksjoner for brukeren er jo så klart å kunne legge til varer i handlekurven, og bestille varene. Dette er jo kjernevirksomheten til kolonial. Mange bruker nok også funksjoner som gjør at varer man kjøper ofte automatisk kommer inn på handlelisten. Varer som melk, brød og pålegg kan være slike varer. I tillegg kommer funksjoner som oppskrifter, hvor man kan legge til alle varene som trengs i handlelisten automatisk. Dette kan gjøre det enklere å prøve nye ting.
+
+b)	Det er flere interessenter i systemet.
+
+Utvikler: Utviklerne som lager systemet, og som lager nye funksjoner i systemet ønsker å lage den beste tjenesten for brukeren
+
+Investorer: Ønsker å tjene mest mulig penger. Ønsker dermed funksjoner og endringer i driften til Kolonial som øker profitten.
+
+Tradisjonelle matbutikker: Er i samme virksomhet som Kolonial. Prøver å selge mest mulig varer og mat, slik at profitten blir høy. Kolonial blir da en konkurrent.
+
+Internettreklame firmaer: Ønsker data om brukerne fra kolonial slik at de kan selge mer målrettet reklame.
+
+Lavt utdannede ansatte: Ønsker først og fremst en jobb og en sosial plass å være.
+
+c)	
+
+d)	Kundene vil ha en positiv relasjon til Kolonial, siden de sparer tid og liker tjenestene kolonial tilbyr. 
+Investorene vil også ha en positiv relasjon, fordi de kan tjene mer penger. De ønsker at utviklerne skal lage funksjoner slik at kundene vil kjøpe mer og slik at virksomheten blir mer automatisert.
+Utviklerne kan ha både en positiv og en negativ relasjon til investorene. Investorene gjør det mulig for utviklerne å lage best mulig produkt, og mange ganger sammenfaller ønskene om endringer sammen med investorene. Selv om ikke grunnen er den samme. På den andre siden ønsker utviklerne å ha kontrollen, og ikke bli presset til å lage løsninger som ikke gir kundene den beste opplevelsen.
+De som tilbyr Internettreklame ønsker data om brukerne, noe kolonial har. De kan dermed ha en positiv relasjon til Kolonial, dersom de vil samarbeide. Siden disse vil tilby penger for denne dataen, vil investorene også ha en positiv relasjon med de som tilbyr Internettreklame. Da dette kan øke profitten til Kolonial. Kundene ønsker derimot at deres data ikke blir delt med andre, og vil dermed ha en negativ relasjon internettreklame bedriftene.
+De konkurrerende bedriftene vil ha en negativ relasjon til Kolonial, siden de tar deres kunder, ved å tilby kundene noe de ikke kan. De kan lage sine egne konkurrenter til Kolonial og på den måten presse Kolonial til å utvikle seg videre for å beholde forspranget de har på internetthandelen.
+De ansatte som ønsker en jobb vil ha en positiv relasjon til både Kolonial og de tradisjonelle matbutikkene, for dem er det viktigste å ha en trygg jobb å gå til.
+
+e)	Spørsmål eller kommentarer til “The Rich Picture: A Tool for Reasoning About Work Context”.
+I Figur 1 og 2 ser man en bedrift utenfra. Med interessenter og interesser. I figur 3 er derimot et bilde innenfra en bedrift. Vil begge disse regnes som rike bilder?
+
+Siden det er en person som lager det rike bilde og kan velge hva han/hun skal fokusere på. Hvor objektiv blir en slik analyse/rikt bilde?
+
+Oppgave 2
+a)	Jeg skal se nærmere på påstand 2 i notatet om samspill mellom mennesker og teknologi. Den sier at endringene i samspillet mellom mennesker og teknologi er vanskelig å fullt ut planlegge, styre og forutse.
+
+Det er umulig for oss å forutse fremtiden og vite hvordan teknologien vil endre seg. Siden samspillet mellom mennesker og teknologi endrer seg i takt med at teknologien endrer seg, vil en utvikling av teknologi også endre samspillet. Vi ikke vet nøyaktig hvordan teknologien vil endre seg, og det vil da være vanskelig å forutse samspillet. Et eksempel kan være hvordan man så for seg at det ikke var nødvendig med mer enn en håndfull datamaskiner i verden på 80-tallet. Der og da virket dette logisk, siden datamaskiner både var dyre og kompliserte. Utviklingen av teknologien, og dermed også samspillet mellom menneske og teknologi, endret seg drastisk etter det.
+
+På en annen siden vil det være mulig å se trender i samspillet mellom mennesker og teknologi. For eksempel kan man i dag se at vi går mot selvkjørende biler. Det er vanskelig å vite når vi kommer dit, og hvordan, men sannsynligvis vil vi utvikle selvkjørende biler. Dette er en teknologi som vil endre samspillet mellom mennesker og teknologi sterkt. Vi vil etter hvert stole helt på teknologien, og sannsynligvis vil ingen trenge å lære seg hvordan man kjører. Ettersom man ser denne trenden allerede, vil det være mulig å planlegge og til en viss grad styre samspillet ved å utvikle lover og regler i forkant av teknologien. Så på visse områder vil det være mulig planlegge, styre og forutse hva som kommer til å skje.
+
+Samspillet mellom mennesker og teknologi endrer seg etter som verden endrer seg. Siden det er umulig å kunne forutse og planlegg hvordan samfunnet endrer seg, vil man heller ikke kunne forutse samspillet. Uforutsette ting skjer i samfunnet hele tide, det kan være en konflikt som plutselig blir en krig. Eller det kan være en pandemi som påvirker hele kloden. Når samfunnet endrer seg drastisk, vil også samspillet mellom mennesker og teknologi endre seg. Nye tjenester og produkter vil bli utviklet for å dekke et nytt marked. Når man ikke greier å forutse alle disse endringene, er det og vanskelig å fullt ut planlegge og forutse hvordan samspillet vil endre seg.
+
+Påstanden stemmer altså i stor grad. Det vil være spesifikke områder innenfor samspillet mellom mennesker og teknologi som vil være lettere og planlegge for enn andre, men å planlegge, styre og forutse mesteparten av samspillet fullt ut vi være veldig vanskelig.
+
+b)	Den digitale teknologien utvikler seg raskt. Samfunnet blir mer avhengig og tettere knyttet til denne teknologien. Dermed vil hverdagen og samfunnet endres i takt med at den digitale teknologien blir utviklet.
+
+Digital teknologi muliggjør det å holde kontakten med folk over store avstander. Ved hjelp av sosiale medier, slik som facebook, og videokonferanse tjenester, slik som zoom, kan man snakke sammen og holde kontakten bedre enn før. Dette kan gjøre at vi er mindre fysisk sammen, men likevel er sosiale. Dette har både positive og negative sider. Det endrer i hvert fall hverdagen til brukerne, ved at de ikke trenger å reise så mye. Man bruker mer tid hjemme og mer tid foran en skjerm.
+
+Det er ikke bare positive sider ved den digitale teknologien. Digital teknologi kan fjerne mange av jobbene vi har i dag. Da er det spesielt de arbeidsplassene som ikke trenger mye utdanning for å gjennomføre. For eksempel når butikkene går over til selvbetjent betalingsløsning. Dette gjør at utdanning vil bli viktigere og viktigere i samfunnet. De som mangler utdanning, vil lettere falle utenfor enn før.
+
+Mange vil oppleve at den digitale teknologien gjør at noen ting går raskere enn før. For å bruke en av de positive siden ved selvbetjente betalingstjenester, så vil det bli mindre kø. I stede for kanskje å ha to kasser i butikken, så kan en butikk ha 6 selvbetjeningskasser. Dette vil gjøre at det blir mindre kø. Det er flere eksempler på ting som blir mer effektive, og som man da slipper å bruke så lang tid på.
+
+Den digitale teknologien vil altså endre hverdagen og samfunnet på både positive og negative måter. Og siden denne teknologien fortsetter å utvikle seg, vil også samfunnet og alle som lever i samfunnet også bli påvirket.
+
+c)	Det er mange gode grunner til å drøfte samspillet mellom teknologi og individer, organisasjoner og samfunn.
+
+Siden teknologi er så tett knyttet til samfunnet vi lever i, vil man ved å drøfte samspillet mellom teknologi og mennesker også drøfte hvordan deler av samfunnet fungerer. På denne måten kan man finne ut hvordan man ønsker å endre samfunnet på.
+
+Ved å drøfte vil man og kunne se på konsekvensene av ny teknologi. Både positive og negative sider ved teknologien vil komme frem. Det vil da gjøre det lettere å finne ut om man må endre noe, eller om man ønsker teknologien i det hele tatt.
+
+Drøfter man samspillet vil man også kan skje kunne finne hvor teknologien kan forbedres. Man kan finne problemer ved teknologien som kan fikses eller endres.
+
+Oppgave 3
+Det er et viktig tema å tenke over. Og det er noe å tenke på når man skal endre noe. Både hvordan det påvirker interessenter og interessene til bedriften, men også hvordan endringen kanskje vil endre hverdagen og samfunnet. I løpet av obligen har jeg blitt mer klar over disse problemstillingene, og jeg har lært hvordan et rikt bilde kan lages og hvordan det kan formidle en kompleks situasjon på en enkel måte.
+Oppgave 1
+a)	Kolonial er en digital matbutikk, så en sluttbruker kan være alle som handler mat. Sluttbrukerne er dermed potensielt en stor gruppe mennesker. I realiteten vil en typisk sluttbruker være en som ønsker å spare tid på å slippe å dra i butikken. Siden frakt koster litt, og butikken er noe dyrere enn billigbutikkene vil en bruker typisk også ha det greit økonomisk. En typisk sluttbruker kan da være en barnefamilie for eksempel. Der begge foreldrene er i jobb, og dermed ser verdi i å slippe å handle fysisk, og sparer tid. Kolonial er tilgjengelig både som et program til telefonen og gjennom internett. Mange vil nok bruke mobilen til å bruke kolonial, da er man allerede logget inn og klar til å kjøpe. Siden levering av varene tar noe tid, vil nok de færreste bruke det mer enn rundt 2 ganger i uka.
+
+Viktige funksjoner for brukeren er jo så klart å kunne legge til varer i handlekurven, og bestille varene. Dette er jo kjernevirksomheten til kolonial. Mange bruker nok også funksjoner som gjør at varer man kjøper ofte automatisk kommer inn på handlelisten. Varer som melk, brød og pålegg kan være slike varer. I tillegg kommer funksjoner som oppskrifter, hvor man kan legge til alle varene som trengs i handlelisten automatisk. Dette kan gjøre det enklere å prøve nye ting.
+
+b)	Det er flere interessenter i systemet.
+
+Utvikler: Utviklerne som lager systemet, og som lager nye funksjoner i systemet ønsker å lage den beste tjenesten for brukeren
+
+Investorer: Ønsker å tjene mest mulig penger. Ønsker dermed funksjoner og endringer i driften til Kolonial som øker profitten.
+
+Tradisjonelle matbutikker: Er i samme virksomhet som Kolonial. Prøver å selge mest mulig varer og mat, slik at profitten blir høy. Kolonial blir da en konkurrent.
+
+Internettreklame firmaer: Ønsker data om brukerne fra kolonial slik at de kan selge mer målrettet reklame.
+
+Lavt utdannede ansatte: Ønsker først og fremst en jobb og en sosial plass å være.
+
+c)	
+
+d)	Kundene vil ha en positiv relasjon til Kolonial, siden de sparer tid og liker tjenestene kolonial tilbyr. 
+Investorene vil også ha en positiv relasjon, fordi de kan tjene mer penger. De ønsker at utviklerne skal lage funksjoner slik at kundene vil kjøpe mer og slik at virksomheten blir mer automatisert.
+Utviklerne kan ha både en positiv og en negativ relasjon til investorene. Investorene gjør det mulig for utviklerne å lage best mulig produkt, og mange ganger sammenfaller ønskene om endringer sammen med investorene. Selv om ikke grunnen er den samme. På den andre siden ønsker utviklerne å ha kontrollen, og ikke bli presset til å lage løsninger som ikke gir kundene den beste opplevelsen.
+De som tilbyr Internettreklame ønsker data om brukerne, noe kolonial har. De kan dermed ha en positiv relasjon til Kolonial, dersom de vil samarbeide. Siden disse vil tilby penger for denne dataen, vil investorene også ha en positiv relasjon med de som tilbyr Internettreklame. Da dette kan øke profitten til Kolonial. Kundene ønsker derimot at deres data ikke blir delt med andre, og vil dermed ha en negativ relasjon internettreklame bedriftene.
+De konkurrerende bedriftene vil ha en negativ relasjon til Kolonial, siden de tar deres kunder, ved å tilby kundene noe de ikke kan. De kan lage sine egne konkurrenter til Kolonial og på den måten presse Kolonial til å utvikle seg videre for å beholde forspranget de har på internetthandelen.
+De ansatte som ønsker en jobb vil ha en positiv relasjon til både Kolonial og de tradisjonelle matbutikkene, for dem er det viktigste å ha en trygg jobb å gå til.
+
+e)	Spørsmål eller kommentarer til “The Rich Picture: A Tool for Reasoning About Work Context”.
+I Figur 1 og 2 ser man en bedrift utenfra. Med interessenter og interesser. I figur 3 er derimot et bilde innenfra en bedrift. Vil begge disse regnes som rike bilder?
+
+Siden det er en person som lager det rike bilde og kan velge hva han/hun skal fokusere på. Hvor objektiv blir en slik analyse/rikt bilde?
+
+Oppgave 2
+a)	Jeg skal se nærmere på påstand 2 i notatet om samspill mellom mennesker og teknologi. Den sier at endringene i samspillet mellom mennesker og teknologi er vanskelig å fullt ut planlegge, styre og forutse.
+
+Det er umulig for oss å forutse fremtiden og vite hvordan teknologien vil endre seg. Siden samspillet mellom mennesker og teknologi endrer seg i takt med at teknologien endrer seg, vil en utvikling av teknologi også endre samspillet. Vi ikke vet nøyaktig hvordan teknologien vil endre seg, og det vil da være vanskelig å forutse samspillet. Et eksempel kan være hvordan man så for seg at det ikke var nødvendig med mer enn en håndfull datamaskiner i verden på 80-tallet. Der og da virket dette logisk, siden datamaskiner både var dyre og kompliserte. Utviklingen av teknologien, og dermed også samspillet mellom menneske og teknologi, endret seg drastisk etter det.
+
+På en annen siden vil det være mulig å se trender i samspillet mellom mennesker og teknologi. For eksempel kan man i dag se at vi går mot selvkjørende biler. Det er vanskelig å vite når vi kommer dit, og hvordan, men sannsynligvis vil vi utvikle selvkjørende biler. Dette er en teknologi som vil endre samspillet mellom mennesker og teknologi sterkt. Vi vil etter hvert stole helt på teknologien, og sannsynligvis vil ingen trenge å lære seg hvordan man kjører. Ettersom man ser denne trenden allerede, vil det være mulig å planlegge og til en viss grad styre samspillet ved å utvikle lover og regler i forkant av teknologien. Så på visse områder vil det være mulig planlegge, styre og forutse hva som kommer til å skje.
+
+Samspillet mellom mennesker og teknologi endrer seg etter som verden endrer seg. Siden det er umulig å kunne forutse og planlegg hvordan samfunnet endrer seg, vil man heller ikke kunne forutse samspillet. Uforutsette ting skjer i samfunnet hele tide, det kan være en konflikt som plutselig blir en krig. Eller det kan være en pandemi som påvirker hele kloden. Når samfunnet endrer seg drastisk, vil også samspillet mellom mennesker og teknologi endre seg. Nye tjenester og produkter vil bli utviklet for å dekke et nytt marked. Når man ikke greier å forutse alle disse endringene, er det og vanskelig å fullt ut planlegge og forutse hvordan samspillet vil endre seg.
+
+Påstanden stemmer altså i stor grad. Det vil være spesifikke områder innenfor samspillet mellom mennesker og teknologi som vil være lettere og planlegge for enn andre, men å planlegge, styre og forutse mesteparten av samspillet fullt ut vi være veldig vanskelig.
+
+b)	Den digitale teknologien utvikler seg raskt. Samfunnet blir mer avhengig og tettere knyttet til denne teknologien. Dermed vil hverdagen og samfunnet endres i takt med at den digitale teknologien blir utviklet.
+
+Digital teknologi muliggjør det å holde kontakten med folk over store avstander. Ved hjelp av sosiale medier, slik som facebook, og videokonferanse tjenester, slik som zoom, kan man snakke sammen og holde kontakten bedre enn før. Dette kan gjøre at vi er mindre fysisk sammen, men likevel er sosiale. Dette har både positive og negative sider. Det endrer i hvert fall hverdagen til brukerne, ved at de ikke trenger å reise så mye. Man bruker mer tid hjemme og mer tid foran en skjerm.
+
+Det er ikke bare positive sider ved den digitale teknologien. Digital teknologi kan fjerne mange av jobbene vi har i dag. Da er det spesielt de arbeidsplassene som ikke trenger mye utdanning for å gjennomføre. For eksempel når butikkene går over til selvbetjent betalingsløsning. Dette gjør at utdanning vil bli viktigere og viktigere i samfunnet. De som mangler utdanning, vil lettere falle utenfor enn før.
+
+Mange vil oppleve at den digitale teknologien gjør at noen ting går raskere enn før. For å bruke en av de positive siden ved selvbetjente betalingstjenester, så vil det bli mindre kø. I stede for kanskje å ha to kasser i butikken, så kan en butikk ha 6 selvbetjeningskasser. Dette vil gjøre at det blir mindre kø. Det er flere eksempler på ting som blir mer effektive, og som man da slipper å bruke så lang tid på.
+
+Den digitale teknologien vil altså endre hverdagen og samfunnet på både positive og negative måter. Og siden denne teknologien fortsetter å utvikle seg, vil også samfunnet og alle som lever i samfunnet også bli påvirket.
+
+c)	Det er mange gode grunner til å drøfte samspillet mellom teknologi og individer, organisasjoner og samfunn.
+
+Siden teknologi er så tett knyttet til samfunnet vi lever i, vil man ved å drøfte samspillet mellom teknologi og mennesker også drøfte hvordan deler av samfunnet fungerer. På denne måten kan man finne ut hvordan man ønsker å endre samfunnet på.
+
+Ved å drøfte vil man og kunne se på konsekvensene av ny teknologi. Både positive og negative sider ved teknologien vil komme frem. Det vil da gjøre det lettere å finne ut om man må endre noe, eller om man ønsker teknologien i det hele tatt.
+
+Drøfter man samspillet vil man også kan skje kunne finne hvor teknologien kan forbedres. Man kan finne problemer ved teknologien som kan fikses eller endres.
+
+Oppgave 3
+Det er et viktig tema å tenke over. Og det er noe å tenke på når man skal endre noe. Både hvordan det påvirker interessenter og interessene til bedriften, men også hvordan endringen kanskje vil endre hverdagen og samfunnet. I løpet av obligen har jeg blitt mer klar over disse problemstillingene, og jeg har lært hvordan et rikt bilde kan lages og hvordan det kan formidle en kompleks situasjon på en enkel måte.
+Oppgave 1
+a)	Kolonial er en digital matbutikk, så en sluttbruker kan være alle som handler mat. Sluttbrukerne er dermed potensielt en stor gruppe mennesker. I realiteten vil en typisk sluttbruker være en som ønsker å spare tid på å slippe å dra i butikken. Siden frakt koster litt, og butikken er noe dyrere enn billigbutikkene vil en bruker typisk også ha det greit økonomisk. En typisk sluttbruker kan da være en barnefamilie for eksempel. Der begge foreldrene er i jobb, og dermed ser verdi i å slippe å handle fysisk, og sparer tid. Kolonial er tilgjengelig både som et program til telefonen og gjennom internett. Mange vil nok bruke mobilen til å bruke kolonial, da er man allerede logget inn og klar til å kjøpe. Siden levering av varene tar noe tid, vil nok de færreste bruke det mer enn rundt 2 ganger i uka.
+
+Viktige funksjoner for brukeren er jo så klart å kunne legge til varer i handlekurven, og bestille varene. Dette er jo kjernevirksomheten til kolonial. Mange bruker nok også funksjoner som gjør at varer man kjøper ofte automatisk kommer inn på handlelisten. Varer som melk, brød og pålegg kan være slike varer. I tillegg kommer funksjoner som oppskrifter, hvor man kan legge til alle varene som trengs i handlelisten automatisk. Dette kan gjøre det enklere å prøve nye ting.
+
+b)	Det er flere interessenter i systemet.
+
+Utvikler: Utviklerne som lager systemet, og som lager nye funksjoner i systemet ønsker å lage den beste tjenesten for brukeren
+
+Investorer: Ønsker å tjene mest mulig penger. Ønsker dermed funksjoner og endringer i driften til Kolonial som øker profitten.
+
+Tradisjonelle matbutikker: Er i samme virksomhet som Kolonial. Prøver å selge mest mulig varer og mat, slik at profitten blir høy. Kolonial blir da en konkurrent.
+
+Internettreklame firmaer: Ønsker data om brukerne fra kolonial slik at de kan selge mer målrettet reklame.
+
+Lavt utdannede ansatte: Ønsker først og fremst en jobb og en sosial plass å være.
+
+c)	
+
+d)	Kundene vil ha en positiv relasjon til Kolonial, siden de sparer tid og liker tjenestene kolonial tilbyr. 
+Investorene vil også ha en positiv relasjon, fordi de kan tjene mer penger. De ønsker at utviklerne skal lage funksjoner slik at kundene vil kjøpe mer og slik at virksomheten blir mer automatisert.
+Utviklerne kan ha både en positiv og en negativ relasjon til investorene. Investorene gjør det mulig for utviklerne å lage best mulig produkt, og mange ganger sammenfaller ønskene om endringer sammen med investorene. Selv om ikke grunnen er den samme. På den andre siden ønsker utviklerne å ha kontrollen, og ikke bli presset til å lage løsninger som ikke gir kundene den beste opplevelsen.
+De som tilbyr Internettreklame ønsker data om brukerne, noe kolonial har. De kan dermed ha en positiv relasjon til Kolonial, dersom de vil samarbeide. Siden disse vil tilby penger for denne dataen, vil investorene også ha en positiv relasjon med de som tilbyr Internettreklame. Da dette kan øke profitten til Kolonial. Kundene ønsker derimot at deres data ikke blir delt med andre, og vil dermed ha en negativ relasjon internettreklame bedriftene.
+De konkurrerende bedriftene vil ha en negativ relasjon til Kolonial, siden de tar deres kunder, ved å tilby kundene noe de ikke kan. De kan lage sine egne konkurrenter til Kolonial og på den måten presse Kolonial til å utvikle seg videre for å beholde forspranget de har på internetthandelen.
+De ansatte som ønsker en jobb vil ha en positiv relasjon til både Kolonial og de tradisjonelle matbutikkene, for dem er det viktigste å ha en trygg jobb å gå til.
+
+e)	Spørsmål eller kommentarer til “The Rich Picture: A Tool for Reasoning About Work Context”.
+I Figur 1 og 2 ser man en bedrift utenfra. Med interessenter og interesser. I figur 3 er derimot et bilde innenfra en bedrift. Vil begge disse regnes som rike bilder?
+
+Siden det er en person som lager det rike bilde og kan velge hva han/hun skal fokusere på. Hvor objektiv blir en slik analyse/rikt bilde?
+
+Oppgave 2
+a)	Jeg skal se nærmere på påstand 2 i notatet om samspill mellom mennesker og teknologi. Den sier at endringene i samspillet mellom mennesker og teknologi er vanskelig å fullt ut planlegge, styre og forutse.
+
+Det er umulig for oss å forutse fremtiden og vite hvordan teknologien vil endre seg. Siden samspillet mellom mennesker og teknologi endrer seg i takt med at teknologien endrer seg, vil en utvikling av teknologi også endre samspillet. Vi ikke vet nøyaktig hvordan teknologien vil endre seg, og det vil da være vanskelig å forutse samspillet. Et eksempel kan være hvordan man så for seg at det ikke var nødvendig med mer enn en håndfull datamaskiner i verden på 80-tallet. Der og da virket dette logisk, siden datamaskiner både var dyre og kompliserte. Utviklingen av teknologien, og dermed også samspillet mellom menneske og teknologi, endret seg drastisk etter det.
+
+På en annen siden vil det være mulig å se trender i samspillet mellom mennesker og teknologi. For eksempel kan man i dag se at vi går mot selvkjørende biler. Det er vanskelig å vite når vi kommer dit, og hvordan, men sannsynligvis vil vi utvikle selvkjørende biler. Dette er en teknologi som vil endre samspillet mellom mennesker og teknologi sterkt. Vi vil etter hvert stole helt på teknologien, og sannsynligvis vil ingen trenge å lære seg hvordan man kjører. Ettersom man ser denne trenden allerede, vil det være mulig å planlegge og til en viss grad styre samspillet ved å utvikle lover og regler i forkant av teknologien. Så på visse områder vil det være mulig planlegge, styre og forutse hva som kommer til å skje.
+
+Samspillet mellom mennesker og teknologi endrer seg etter som verden endrer seg. Siden det er umulig å kunne forutse og planlegg hvordan samfunnet endrer seg, vil man heller ikke kunne forutse samspillet. Uforutsette ting skjer i samfunnet hele tide, det kan være en konflikt som plutselig blir en krig. Eller det kan være en pandemi som påvirker hele kloden. Når samfunnet endrer seg drastisk, vil også samspillet mellom mennesker og teknologi endre seg. Nye tjenester og produkter vil bli utviklet for å dekke et nytt marked. Når man ikke greier å forutse alle disse endringene, er det og vanskelig å fullt ut planlegge og forutse hvordan samspillet vil endre seg.
+
+Påstanden stemmer altså i stor grad. Det vil være spesifikke områder innenfor samspillet mellom mennesker og teknologi som vil være lettere og planlegge for enn andre, men å planlegge, styre og forutse mesteparten av samspillet fullt ut vi være veldig vanskelig.
+
+b)	Den digitale teknologien utvikler seg raskt. Samfunnet blir mer avhengig og tettere knyttet til denne teknologien. Dermed vil hverdagen og samfunnet endres i takt med at den digitale teknologien blir utviklet.
+
+Digital teknologi muliggjør det å holde kontakten med folk over store avstander. Ved hjelp av sosiale medier, slik som facebook, og videokonferanse tjenester, slik som zoom, kan man snakke sammen og holde kontakten bedre enn før. Dette kan gjøre at vi er mindre fysisk sammen, men likevel er sosiale. Dette har både positive og negative sider. Det endrer i hvert fall hverdagen til brukerne, ved at de ikke trenger å reise så mye. Man bruker mer tid hjemme og mer tid foran en skjerm.
+
+Det er ikke bare positive sider ved den digitale teknologien. Digital teknologi kan fjerne mange av jobbene vi har i dag. Da er det spesielt de arbeidsplassene som ikke trenger mye utdanning for å gjennomføre. For eksempel når butikkene går over til selvbetjent betalingsløsning. Dette gjør at utdanning vil bli viktigere og viktigere i samfunnet. De som mangler utdanning, vil lettere falle utenfor enn før.
+
+Mange vil oppleve at den digitale teknologien gjør at noen ting går raskere enn før. For å bruke en av de positive siden ved selvbetjente betalingstjenester, så vil det bli mindre kø. I stede for kanskje å ha to kasser i butikken, så kan en butikk ha 6 selvbetjeningskasser. Dette vil gjøre at det blir mindre kø. Det er flere eksempler på ting som blir mer effektive, og som man da slipper å bruke så lang tid på.
+
+Den digitale teknologien vil altså endre hverdagen og samfunnet på både positive og negative måter. Og siden denne teknologien fortsetter å utvikle seg, vil også samfunnet og alle som lever i samfunnet også bli påvirket.
+
+c)	Det er mange gode grunner til å drøfte samspillet mellom teknologi og individer, organisasjoner og samfunn.
+
+Siden teknologi er så tett knyttet til samfunnet vi lever i, vil man ved å drøfte samspillet mellom teknologi og mennesker også drøfte hvordan deler av samfunnet fungerer. På denne måten kan man finne ut hvordan man ønsker å endre samfunnet på.
+
+Ved å drøfte vil man og kunne se på konsekvensene av ny teknologi. Både positive og negative sider ved teknologien vil komme frem. Det vil da gjøre det lettere å finne ut om man må endre noe, eller om man ønsker teknologien i det hele tatt.
+
+Drøfter man samspillet vil man også kan skje kunne finne hvor teknologien kan forbedres. Man kan finne problemer ved teknologien som kan fikses eller endres.
+
+Oppgave 3
+Det er et viktig tema å tenke over. Og det er noe å tenke på når man skal endre noe. Både hvordan det påvirker interessenter og interessene til bedriften, men også hvordan endringen kanskje vil endre hverdagen og samfunnet. I løpet av obligen har jeg blitt mer klar over disse problemstillingene, og jeg har lært hvordan et rikt bilde kan lages og hvordan det kan formidle en kompleks situasjon på en enkel måte.
+Oppgave 1
+a)	Kolonial er en digital matbutikk, så en sluttbruker kan være alle som handler mat. Sluttbrukerne er dermed potensielt en stor gruppe mennesker. I realiteten vil en typisk sluttbruker være en som ønsker å spare tid på å slippe å dra i butikken. Siden frakt koster litt, og butikken er noe dyrere enn billigbutikkene vil en bruker typisk også ha det greit økonomisk. En typisk sluttbruker kan da være en barnefamilie for eksempel. Der begge foreldrene er i jobb, og dermed ser verdi i å slippe å handle fysisk, og sparer tid. Kolonial er tilgjengelig både som et program til telefonen og gjennom internett. Mange vil nok bruke mobilen til å bruke kolonial, da er man allerede logget inn og klar til å kjøpe. Siden levering av varene tar noe tid, vil nok de færreste bruke det mer enn rundt 2 ganger i uka.
+
+Viktige funksjoner for brukeren er jo så klart å kunne legge til varer i handlekurven, og bestille varene. Dette er jo kjernevirksomheten til kolonial. Mange bruker nok også funksjoner som gjør at varer man kjøper ofte automatisk kommer inn på handlelisten. Varer som melk, brød og pålegg kan være slike varer. I tillegg kommer funksjoner som oppskrifter, hvor man kan legge til alle varene som trengs i handlelisten automatisk. Dette kan gjøre det enklere å prøve nye ting.
+
+b)	Det er flere interessenter i systemet.
+
+Utvikler: Utviklerne som lager systemet, og som lager nye funksjoner i systemet ønsker å lage den beste tjenesten for brukeren
+
+Investorer: Ønsker å tjene mest mulig penger. Ønsker dermed funksjoner og endringer i driften til Kolonial som øker profitten.
+
+Tradisjonelle matbutikker: Er i samme virksomhet som Kolonial. Prøver å selge mest mulig varer og mat, slik at profitten blir høy. Kolonial blir da en konkurrent.
+
+Internettreklame firmaer: Ønsker data om brukerne fra kolonial slik at de kan selge mer målrettet reklame.
+
+Lavt utdannede ansatte: Ønsker først og fremst en jobb og en sosial plass å være.
+
+c)	
+
+d)	Kundene vil ha en positiv relasjon til Kolonial, siden de sparer tid og liker tjenestene kolonial tilbyr. 
+Investorene vil også ha en positiv relasjon, fordi de kan tjene mer penger. De ønsker at utviklerne skal lage funksjoner slik at kundene vil kjøpe mer og slik at virksomheten blir mer automatisert.
+Utviklerne kan ha både en positiv og en negativ relasjon til investorene. Investorene gjør det mulig for utviklerne å lage best mulig produkt, og mange ganger sammenfaller ønskene om endringer sammen med investorene. Selv om ikke grunnen er den samme. På den andre siden ønsker utviklerne å ha kontrollen, og ikke bli presset til å lage løsninger som ikke gir kundene den beste opplevelsen.
+De som tilbyr Internettreklame ønsker data om brukerne, noe kolonial har. De kan dermed ha en positiv relasjon til Kolonial, dersom de vil samarbeide. Siden disse vil tilby penger for denne dataen, vil investorene også ha en positiv relasjon med de som tilbyr Internettreklame. Da dette kan øke profitten til Kolonial. Kundene ønsker derimot at deres data ikke blir delt med andre, og vil dermed ha en negativ relasjon internettreklame bedriftene.
+De konkurrerende bedriftene vil ha en negativ relasjon til Kolonial, siden de tar deres kunder, ved å tilby kundene noe de ikke kan. De kan lage sine egne konkurrenter til Kolonial og på den måten presse Kolonial til å utvikle seg videre for å beholde forspranget de har på internetthandelen.
+De ansatte som ønsker en jobb vil ha en positiv relasjon til både Kolonial og de tradisjonelle matbutikkene, for dem er det viktigste å ha en trygg jobb å gå til.
+
+e)	Spørsmål eller kommentarer til “The Rich Picture: A Tool for Reasoning About Work Context”.
+I Figur 1 og 2 ser man en bedrift utenfra. Med interessenter og interesser. I figur 3 er derimot et bilde innenfra en bedrift. Vil begge disse regnes som rike bilder?
+
+Siden det er en person som lager det rike bilde og kan velge hva han/hun skal fokusere på. Hvor objektiv blir en slik analyse/rikt bilde?
+
+Oppgave 2
+a)	Jeg skal se nærmere på påstand 2 i notatet om samspill mellom mennesker og teknologi. Den sier at endringene i samspillet mellom mennesker og teknologi er vanskelig å fullt ut planlegge, styre og forutse.
+
+Det er umulig for oss å forutse fremtiden og vite hvordan teknologien vil endre seg. Siden samspillet mellom mennesker og teknologi endrer seg i takt med at teknologien endrer seg, vil en utvikling av teknologi også endre samspillet. Vi ikke vet nøyaktig hvordan teknologien vil endre seg, og det vil da være vanskelig å forutse samspillet. Et eksempel kan være hvordan man så for seg at det ikke var nødvendig med mer enn en håndfull datamaskiner i verden på 80-tallet. Der og da virket dette logisk, siden datamaskiner både var dyre og kompliserte. Utviklingen av teknologien, og dermed også samspillet mellom menneske og teknologi, endret seg drastisk etter det.
+
+På en annen siden vil det være mulig å se trender i samspillet mellom mennesker og teknologi. For eksempel kan man i dag se at vi går mot selvkjørende biler. Det er vanskelig å vite når vi kommer dit, og hvordan, men sannsynligvis vil vi utvikle selvkjørende biler. Dette er en teknologi som vil endre samspillet mellom mennesker og teknologi sterkt. Vi vil etter hvert stole helt på teknologien, og sannsynligvis vil ingen trenge å lære seg hvordan man kjører. Ettersom man ser denne trenden allerede, vil det være mulig å planlegge og til en viss grad styre samspillet ved å utvikle lover og regler i forkant av teknologien. Så på visse områder vil det være mulig planlegge, styre og forutse hva som kommer til å skje.
+
+Samspillet mellom mennesker og teknologi endrer seg etter som verden endrer seg. Siden det er umulig å kunne forutse og planlegg hvordan samfunnet endrer seg, vil man heller ikke kunne forutse samspillet. Uforutsette ting skjer i samfunnet hele tide, det kan være en konflikt som plutselig blir en krig. Eller det kan være en pandemi som påvirker hele kloden. Når samfunnet endrer seg drastisk, vil også samspillet mellom mennesker og teknologi endre seg. Nye tjenester og produkter vil bli utviklet for å dekke et nytt marked. Når man ikke greier å forutse alle disse endringene, er det og vanskelig å fullt ut planlegge og forutse hvordan samspillet vil endre seg.
+
+Påstanden stemmer altså i stor grad. Det vil være spesifikke områder innenfor samspillet mellom mennesker og teknologi som vil være lettere og planlegge for enn andre, men å planlegge, styre og forutse mesteparten av samspillet fullt ut vi være veldig vanskelig.
+
+b)	Den digitale teknologien utvikler seg raskt. Samfunnet blir mer avhengig og tettere knyttet til denne teknologien. Dermed vil hverdagen og samfunnet endres i takt med at den digitale teknologien blir utviklet.
+
+Digital teknologi muliggjør det å holde kontakten med folk over store avstander. Ved hjelp av sosiale medier, slik som facebook, og videokonferanse tjenester, slik som zoom, kan man snakke sammen og holde kontakten bedre enn før. Dette kan gjøre at vi er mindre fysisk sammen, men likevel er sosiale. Dette har både positive og negative sider. Det endrer i hvert fall hverdagen til brukerne, ved at de ikke trenger å reise så mye. Man bruker mer tid hjemme og mer tid foran en skjerm.
+
+Det er ikke bare positive sider ved den digitale teknologien. Digital teknologi kan fjerne mange av jobbene vi har i dag. Da er det spesielt de arbeidsplassene som ikke trenger mye utdanning for å gjennomføre. For eksempel når butikkene går over til selvbetjent betalingsløsning. Dette gjør at utdanning vil bli viktigere og viktigere i samfunnet. De som mangler utdanning, vil lettere falle utenfor enn før.
+
+Mange vil oppleve at den digitale teknologien gjør at noen ting går raskere enn før. For å bruke en av de positive siden ved selvbetjente betalingstjenester, så vil det bli mindre kø. I stede for kanskje å ha to kasser i butikken, så kan en butikk ha 6 selvbetjeningskasser. Dette vil gjøre at det blir mindre kø. Det er flere eksempler på ting som blir mer effektive, og som man da slipper å bruke så lang tid på.
+
+Den digitale teknologien vil altså endre hverdagen og samfunnet på både positive og negative måter. Og siden denne teknologien fortsetter å utvikle seg, vil også samfunnet og alle som lever i samfunnet også bli påvirket.
+
+c)	Det er mange gode grunner til å drøfte samspillet mellom teknologi og individer, organisasjoner og samfunn.
+
+Siden teknologi er så tett knyttet til samfunnet vi lever i, vil man ved å drøfte samspillet mellom teknologi og mennesker også drøfte hvordan deler av samfunnet fungerer. På denne måten kan man finne ut hvordan man ønsker å endre samfunnet på.
+
+Ved å drøfte vil man og kunne se på konsekvensene av ny teknologi. Både positive og negative sider ved teknologien vil komme frem. Det vil da gjøre det lettere å finne ut om man må endre noe, eller om man ønsker teknologien i det hele tatt.
+
+Drøfter man samspillet vil man også kan skje kunne finne hvor teknologien kan forbedres. Man kan finne problemer ved teknologien som kan fikses eller endres.
+
+Oppgave 3
+Det er et viktig tema å tenke over. Og det er noe å tenke på når man skal endre noe. Både hvordan det påvirker interessenter og interessene til bedriften, men også hvordan endringen kanskje vil endre hverdagen og samfunnet. I løpet av obligen har jeg blitt mer klar over disse problemstillingene, og jeg har lært hvordan et rikt bilde kan lages og hvordan det kan formidle en kompleks situasjon på en enkel måte.
+Oppgave 1
+a)	Kolonial er en digital matbutikk, så en sluttbruker kan være alle som handler mat. Sluttbrukerne er dermed potensielt en stor gruppe mennesker. I realiteten vil en typisk sluttbruker være en som ønsker å spare tid på å slippe å dra i butikken. Siden frakt koster litt, og butikken er noe dyrere enn billigbutikkene vil en bruker typisk også ha det greit økonomisk. En typisk sluttbruker kan da være en barnefamilie for eksempel. Der begge foreldrene er i jobb, og dermed ser verdi i å slippe å handle fysisk, og sparer tid. Kolonial er tilgjengelig både som et program til telefonen og gjennom internett. Mange vil nok bruke mobilen til å bruke kolonial, da er man allerede logget inn og klar til å kjøpe. Siden levering av varene tar noe tid, vil nok de færreste bruke det mer enn rundt 2 ganger i uka.
+
+Viktige funksjoner for brukeren er jo så klart å kunne legge til varer i handlekurven, og bestille varene. Dette er jo kjernevirksomheten til kolonial. Mange bruker nok også funksjoner som gjør at varer man kjøper ofte automatisk kommer inn på handlelisten. Varer som melk, brød og pålegg kan være slike varer. I tillegg kommer funksjoner som oppskrifter, hvor man kan legge til alle varene som trengs i handlelisten automatisk. Dette kan gjøre det enklere å prøve nye ting.
+
+b)	Det er flere interessenter i systemet.
+
+Utvikler: Utviklerne som lager systemet, og som lager nye funksjoner i systemet ønsker å lage den beste tjenesten for brukeren
+
+Investorer: Ønsker å tjene mest mulig penger. Ønsker dermed funksjoner og endringer i driften til Kolonial som øker profitten.
+
+Tradisjonelle matbutikker: Er i samme virksomhet som Kolonial. Prøver å selge mest mulig varer og mat, slik at profitten blir høy. Kolonial blir da en konkurrent.
+
+Internettreklame firmaer: Ønsker data om brukerne fra kolonial slik at de kan selge mer målrettet reklame.
+
+Lavt utdannede ansatte: Ønsker først og fremst en jobb og en sosial plass å være.
+
+c)	
+
+d)	Kundene vil ha en positiv relasjon til Kolonial, siden de sparer tid og liker tjenestene kolonial tilbyr. 
+Investorene vil også ha en positiv relasjon, fordi de kan tjene mer penger. De ønsker at utviklerne skal lage funksjoner slik at kundene vil kjøpe mer og slik at virksomheten blir mer automatisert.
+Utviklerne kan ha både en positiv og en negativ relasjon til investorene. Investorene gjør det mulig for utviklerne å lage best mulig produkt, og mange ganger sammenfaller ønskene om endringer sammen med investorene. Selv om ikke grunnen er den samme. På den andre siden ønsker utviklerne å ha kontrollen, og ikke bli presset til å lage løsninger som ikke gir kundene den beste opplevelsen.
+De som tilbyr Internettreklame ønsker data om brukerne, noe kolonial har. De kan dermed ha en positiv relasjon til Kolonial, dersom de vil samarbeide. Siden disse vil tilby penger for denne dataen, vil investorene også ha en positiv relasjon med de som tilbyr Internettreklame. Da dette kan øke profitten til Kolonial. Kundene ønsker derimot at deres data ikke blir delt med andre, og vil dermed ha en negativ relasjon internettreklame bedriftene.
+De konkurrerende bedriftene vil ha en negativ relasjon til Kolonial, siden de tar deres kunder, ved å tilby kundene noe de ikke kan. De kan lage sine egne konkurrenter til Kolonial og på den måten presse Kolonial til å utvikle seg videre for å beholde forspranget de har på internetthandelen.
+De ansatte som ønsker en jobb vil ha en positiv relasjon til både Kolonial og de tradisjonelle matbutikkene, for dem er det viktigste å ha en trygg jobb å gå til.
+
+e)	Spørsmål eller kommentarer til “The Rich Picture: A Tool for Reasoning About Work Context”.
+I Figur 1 og 2 ser man en bedrift utenfra. Med interessenter og interesser. I figur 3 er derimot et bilde innenfra en bedrift. Vil begge disse regnes som rike bilder?
+
+Siden det er en person som lager det rike bilde og kan velge hva han/hun skal fokusere på. Hvor objektiv blir en slik analyse/rikt bilde?
+
+Oppgave 2
+a)	Jeg skal se nærmere på påstand 2 i notatet om samspill mellom mennesker og teknologi. Den sier at endringene i samspillet mellom mennesker og teknologi er vanskelig å fullt ut planlegge, styre og forutse.
+
+Det er umulig for oss å forutse fremtiden og vite hvordan teknologien vil endre seg. Siden samspillet mellom mennesker og teknologi endrer seg i takt med at teknologien endrer seg, vil en utvikling av teknologi også endre samspillet. Vi ikke vet nøyaktig hvordan teknologien vil endre seg, og det vil da være vanskelig å forutse samspillet. Et eksempel kan være hvordan man så for seg at det ikke var nødvendig med mer enn en håndfull datamaskiner i verden på 80-tallet. Der og da virket dette logisk, siden datamaskiner både var dyre og kompliserte. Utviklingen av teknologien, og dermed også samspillet mellom menneske og teknologi, endret seg drastisk etter det.
+
+På en annen siden vil det være mulig å se trender i samspillet mellom mennesker og teknologi. For eksempel kan man i dag se at vi går mot selvkjørende biler. Det er vanskelig å vite når vi kommer dit, og hvordan, men sannsynligvis vil vi utvikle selvkjørende biler. Dette er en teknologi som vil endre samspillet mellom mennesker og teknologi sterkt. Vi vil etter hvert stole helt på teknologien, og sannsynligvis vil ingen trenge å lære seg hvordan man kjører. Ettersom man ser denne trenden allerede, vil det være mulig å planlegge og til en viss grad styre samspillet ved å utvikle lover og regler i forkant av teknologien. Så på visse områder vil det være mulig planlegge, styre og forutse hva som kommer til å skje.
+
+Samspillet mellom mennesker og teknologi endrer seg etter som verden endrer seg. Siden det er umulig å kunne forutse og planlegg hvordan samfunnet endrer seg, vil man heller ikke kunne forutse samspillet. Uforutsette ting skjer i samfunnet hele tide, det kan være en konflikt som plutselig blir en krig. Eller det kan være en pandemi som påvirker hele kloden. Når samfunnet endrer seg drastisk, vil også samspillet mellom mennesker og teknologi endre seg. Nye tjenester og produkter vil bli utviklet for å dekke et nytt marked. Når man ikke greier å forutse alle disse endringene, er det og vanskelig å fullt ut planlegge og forutse hvordan samspillet vil endre seg.
+
+Påstanden stemmer altså i stor grad. Det vil være spesifikke områder innenfor samspillet mellom mennesker og teknologi som vil være lettere og planlegge for enn andre, men å planlegge, styre og forutse mesteparten av samspillet fullt ut vi være veldig vanskelig.
+
+b)	Den digitale teknologien utvikler seg raskt. Samfunnet blir mer avhengig og tettere knyttet til denne teknologien. Dermed vil hverdagen og samfunnet endres i takt med at den digitale teknologien blir utviklet.
+
+Digital teknologi muliggjør det å holde kontakten med folk over store avstander. Ved hjelp av sosiale medier, slik som facebook, og videokonferanse tjenester, slik som zoom, kan man snakke sammen og holde kontakten bedre enn før. Dette kan gjøre at vi er mindre fysisk sammen, men likevel er sosiale. Dette har både positive og negative sider. Det endrer i hvert fall hverdagen til brukerne, ved at de ikke trenger å reise så mye. Man bruker mer tid hjemme og mer tid foran en skjerm.
+
+Det er ikke bare positive sider ved den digitale teknologien. Digital teknologi kan fjerne mange av jobbene vi har i dag. Da er det spesielt de arbeidsplassene som ikke trenger mye utdanning for å gjennomføre. For eksempel når butikkene går over til selvbetjent betalingsløsning. Dette gjør at utdanning vil bli viktigere og viktigere i samfunnet. De som mangler utdanning, vil lettere falle utenfor enn før.
+
+Mange vil oppleve at den digitale teknologien gjør at noen ting går raskere enn før. For å bruke en av de positive siden ved selvbetjente betalingstjenester, så vil det bli mindre kø. I stede for kanskje å ha to kasser i butikken, så kan en butikk ha 6 selvbetjeningskasser. Dette vil gjøre at det blir mindre kø. Det er flere eksempler på ting som blir mer effektive, og som man da slipper å bruke så lang tid på.
+
+Den digitale teknologien vil altså endre hverdagen og samfunnet på både positive og negative måter. Og siden denne teknologien fortsetter å utvikle seg, vil også samfunnet og alle som lever i samfunnet også bli påvirket.
+
+c)	Det er mange gode grunner til å drøfte samspillet mellom teknologi og individer, organisasjoner og samfunn.
+
+Siden teknologi er så tett knyttet til samfunnet vi lever i, vil man ved å drøfte samspillet mellom teknologi og mennesker også drøfte hvordan deler av samfunnet fungerer. På denne måten kan man finne ut hvordan man ønsker å endre samfunnet på.
+
+Ved å drøfte vil man og kunne se på konsekvensene av ny teknologi. Både positive og negative sider ved teknologien vil komme frem. Det vil da gjøre det lettere å finne ut om man må endre noe, eller om man ønsker teknologien i det hele tatt.
+
+Drøfter man samspillet vil man også kan skje kunne finne hvor teknologien kan forbedres. Man kan finne problemer ved teknologien som kan fikses eller endres.
+
+Oppgave 3
+Det er et viktig tema å tenke over. Og det er noe å tenke på når man skal endre noe. Både hvordan det påvirker interessenter og interessene til bedriften, men også hvordan endringen kanskje vil endre hverdagen og samfunnet. I løpet av obligen har jeg blitt mer klar over disse problemstillingene, og jeg har lært hvordan et rikt bilde kan lages og hvordan det kan formidle en kompleks situasjon på en enkel måte.
