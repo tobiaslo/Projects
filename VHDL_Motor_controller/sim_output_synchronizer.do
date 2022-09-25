@@ -1,0 +1,9 @@
+vsim -voptargs=+acc work.tb_output_synchronizer
+add wave sim:/tb_output_synchronizer/tb_clk
+add wave sim:/tb_output_synchronizer/tb_reset
+add wave sim:/tb_output_synchronizer/tb_duty_cycle
+add wave sim:/tb_output_synchronizer/tb_dir
+add wave sim:/tb_output_synchronizer/tb_en
+add wave sim:/tb_output_synchronizer/tb_dir_synch
+add wave sim:/tb_output_synchronizer/tb_en_synch
+run 200 us

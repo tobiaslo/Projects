@@ -1,0 +1,9 @@
+vsim -voptargs=+acc work.tb_quadrature_decoder
+add wave sim:/tb_quadrature_decoder/tb_clk
+add wave sim:/tb_quadrature_decoder/tb_reset
+add wave sim:/tb_quadrature_decoder/tb_sa
+add wave sim:/tb_quadrature_decoder/tb_sb
+add wave sim:/tb_quadrature_decoder/tb_pos_inc
+add wave sim:/tb_quadrature_decoder/tb_pos_dec
+add wave sim:/tb_quadrature_decoder/UUT/current_state
+run 400 ns
